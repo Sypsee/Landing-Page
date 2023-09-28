@@ -115,3 +115,28 @@
     text-align: center;
     font-size: smaller;
 }
+
+.Quote {
+    background-color: #E5E7EB;
+    width: 100%;
+    height: 350px;
+    margin-top: -50px;
+    display: flex;
+    justify-content: center;
+}
+
+.Quote p {
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 35px;
+    width: 960px;
+    height: 250px;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+
+.Quote h3 {
+    color: black;
+    margin-top: 280px;
+}
