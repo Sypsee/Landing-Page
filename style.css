@@ -112,5 +112,6 @@
 .Random-Image p {
     color: #1F2937;
     margin-top: 160px;
-    width: 200px;
+    text-align: center;
+    font-size: smaller;
 }
